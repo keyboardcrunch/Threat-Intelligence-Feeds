@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>Intelligence & Emerging Threats</title>
+        <dateModified>Fri Oct 11 22:19:13 2019</dateModified>
+    </head>
+    <body>
+        <outline text="Secureworks Counter Threat Unit (CTU) Research" type="rss" htmlUrl="https://www.secureworks.com/research" xmlUrl="https://www.secureworks.com/rss?feed=research"/>
+        <outline text="Carnal0wnage &amp; Attack Research Blog" type="rss" htmlUrl="http://carnal0wnage.attackresearch.com/" xmlUrl="http://carnal0wnage.attackresearch.com/feeds/posts/default?alt=rss"/>
+        <outline text="Insider Threat Security Blog" type="rss" htmlUrl="https://blog.stealthbits.com" xmlUrl="https://blog.stealthbits.com/feed/"/>
+        <outline text="TrendLabs Security Intelligence Blog" type="rss" htmlUrl="https://blog.trendmicro.com/trendlabs-security-intelligence" xmlUrl="http://feeds.trendmicro.com/Anti-MalwareBlog"/>
+        <outline text="Symantec Blogs - Threat Intelligence" type="rss" htmlUrl="https://www.symantec.com/blogs/" xmlUrl="https://content.connect.symantec.com/rss/v1/blogs/rss.xml/221"/>
+        <outline text="Volexity Blog" type="rss" htmlUrl="https://www.volexity.com" xmlUrl="https://www.volexity.com/blog/feed/"/>
+        <outline text="Shadowserver | Threat Intelligence" type="rss" htmlUrl="https://www.shadowserver.org/" xmlUrl="http://blog.shadowserver.org/topics/threat-intelligence/feed/"/>
+        <outline text="PaloAlto Unit 42 – Threat Intelligence" type="rss" htmlUrl="https://unit42.paloaltonetworks.com" xmlUrl="https://unit42.paloaltonetworks.com/category/unit42/feed/"/>
+        <outline text="ESET - WeLiveSecurity" type="rss" htmlUrl="https://www.welivesecurity.com" xmlUrl="https://www.welivesecurity.com/category/cybercrime,malware,hacking,windows,banking/feed/"/>
+        <outline text="Kaspersky Securelist - APT Reports" type="rss" htmlUrl="https://securelist.com" xmlUrl="https://securelist.com/feed/"/>
+        <outline text="FireEye Blogs - Threat Research" type="rss" htmlUrl="http://www.fireeye.com/blog/threat-research.html" xmlUrl="https://www.fireeye.com/blog/threat-research/_jcr_content.feed"/>
+        <outline text="Cisco Talos - Blog" type="rss" htmlUrl="https://blog.talosintelligence.com/" xmlUrl="https://blog.talosintelligence.com/feeds/posts/default"/>
+        <outline text="Check Point Research" type="rss" htmlUrl="http://research.checkpoint.com" xmlUrl="https://research.checkpoint.com/feed/"/>
+        <outline text="Cybereason Blog" type="rss" htmlUrl="https://www.cybereason.com/blog" xmlUrl="https://www.cybereason.com/blog/rss.xml"/>
+        <outline text="Anomali Blog" type="rss" htmlUrl="https://www.anomali.com/blog" xmlUrl="https://www.anomali.com/site/blog-rss"/>
+        <outline text="ClearSky Cyber Security" type="rss" htmlUrl="https://www.clearskysec.com" xmlUrl="https://www.clearskysec.com/feed/"/>
+        <outline text="Carbon Black - Threat Research" type="rss" htmlUrl="https://www.carbonblack.com" xmlUrl="https://www.carbonblack.com/topics/threat-research/feed/"/>
+        <outline text="RiskIQ Labs" type="rss" htmlUrl="https://www.riskiq.com" xmlUrl="https://www.riskiq.com/blog/category/labs/feed/"/>
+        <outline text="Positive Technologies - Research Blog" type="rss" htmlUrl="http://blog.ptsecurity.com/" xmlUrl="http://blog.ptsecurity.com/feeds/posts/default"/>
+        <outline text="Proofpoint - Threat Insight" type="rss" htmlUrl="https://www.proofpoint.com/us/blog" xmlUrl="https://www.proofpoint.com/us/threat-insight-blog.xml"/>
+        <outline text="Malwarebytes Labs - Threat analysis" type="rss" htmlUrl="https://blog.malwarebytes.com" xmlUrl="https://blog.malwarebytes.com/threat-analysis/feed/"/>
+        <outline text="Cyber Forensicator - Articles" type="rss" htmlUrl="https://cyberforensicator.com" xmlUrl="https://cyberforensicator.com/category/articles/feed/"/>
+        <outline text="Cylance Blog" type="rss" htmlUrl="https://threatvector.cylance.com/" xmlUrl="https://threatvector.cylance.com/content/dam/cylance-blog/en_us/rss_en_us.xml"/>
+        <outline text="Flashpoint - Emerging Threats" type="rss" htmlUrl="https://www.flashpoint-intel.com" xmlUrl="https://www.flashpoint-intel.com/blog/emerging-threats/feed/"/>
+    </body>
+</opml>
